@@ -40,12 +40,20 @@ Rather than discouraging me, this anomaly sparked a deep fascination with how th
 
 ***
 
-**3. Scaling & Post-Mortem on Manual Systems ($100k Peak)**
-**The Event:** By June 2025, my infrastructure-first research yielded a **4,400% return**, scaling **$2,200 to over $100,000** across active Phantom wallets.
+## **3. Scaling & Post-Mortem on Manual Systems ($100k Peak)**
 
-**Technical Post-Mortem:** This peak was achieved by applying strategies learned from top-tier traders. Specifically, I documented a case study on a trader whose methodology focused on identifying "Alpha" in infrastructure-heavy projects, which provided the blueprint for my portfolio's growth.
-* **The Gap:** However, the subsequent drawdown back to $10k was a classic **Systems Failure**. I was managing a six-figure, high-concurrency system manually in a 24/7 market. 
-* **The Lesson:** In the absence of automated risk-management and real-time monitoring (SRE), a human-led system is prone to catastrophic failure. 
+**The Event:** By June 2025, my transition from a retail mindset to an infrastructure-first approach yielded a **4,400% return**, scaling a seed capital of **$2,200 to over $100,000** across three active Phantom wallets.
+
+**Systems Analysis:** My research into $LISTEN and $ARC taught me that the crypto market functions as an "Attention Economy." I learned that success depends on front-running the curve by identifying undervalued assets based on objective technical pillars: the quality of a GitHub repository, the developer’s track record, and the actual utility of the product. 
+
+**Market Dynamics:** I began to synthesize different market drivers to gain an edge:
+* **Fundamental Analysis:** Evaluating "staying power" in narratives, comparing emergent plays to established benchmarks like $WIF and $PEPE.
+* **Social Architecture:** Monitoring the influence of KOLs (Key Opinion Leaders) and how their backing can manipulate or sustain momentum.
+* **Technical Analysis (TA):** I developed the ability to recognize on-chain patterns, providing a systematic edge for entering and exiting plays with precision.
+
+**Technical Post-Mortem:** During this period, I followed insights from respected market analysts like **Jack** (as seen in the documentation), whose perspective on the "ever-changing puzzle" of on-chain liquidity helped refine my strategy. However, reaching the $100k milestone created a false sense of security.
+
+**The Lesson:** Despite the massive growth, the portfolio eventually suffered due to **poor risk management**. I realized that while my "entry" logic was sound, my "systemic guardrails" were non-existent. Managing a six-figure, high-concurrency portfolio manually in a 24/7 market is a recipe for failure without a strict exit framework. I have since corrected these operational flaws, treating risk management as a technical requirement rather than an afterthought.
 
 <p align="center">
   <img src="assets/peak_portfolio.png" width="450" hspace="10">
