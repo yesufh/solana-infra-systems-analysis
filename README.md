@@ -15,9 +15,9 @@
 Rather than discouraging me, this anomaly sparked a deep fascination with how these decentralized systems actually function. I realized that to find sustainable Alpha, I needed to look past the surface-level hype and understand the underlying mechanics of the network. This shift in perspective drove me to dive deeper into the space, eventually leading me away from the "noise" and toward the technical infrastructure that powers it all.
 
 <p align="center">
-  <img src="assets/trump_tweets_coin.png" width="300" hspace="2">
-  <img src="assets/trump_coin_fud.png" width="300" hspace="5">
-  <img src="assets/trump_coin_sentiment.png" width="300" hspace="5">
+  <img src="assets/trump_tweets_coin.png" width="32%">
+  <img src="assets/trump_coin_fud.png" width="32%">
+  <img src="assets/trump_coin_sentiment.png" width="32%">
 </p>
 
 ***
@@ -34,8 +34,8 @@ Rather than discouraging me, this anomaly sparked a deep fascination with how th
 **The Technical Takeaway:** Beyond the tech, I observed the market's reaction to high-quality engineering. When piotrostr’s GitHub reached an impressive **1.1k stars**, it served as a technical validation that drove the valuation of $LISTEN upward. Seeing the strategic partnership between the lean $listen infrastructure and the high-valuation $arc ecosystem taught me how technical interoperability creates massive market value. I aligned my portfolio with these "infrastructure bets," focusing on how I could eventually implement these tools to automate my own trading and remove human latency from the equation.
 
 <p align="center">
-  <img src="assets/piotrostr-listen-github.png" width="450" hspace="10">
-  <img src="assets/listen_and_arc_holdings.png" width="450" hspace="10">
+  <img src="assets/piotrostr-listen-github.png" width="48%">
+  <img src="assets/listen_and_arc_holdings.png" width="48%">
 </p>
 
 ***
@@ -51,13 +51,13 @@ Rather than discouraging me, this anomaly sparked a deep fascination with how th
 * **Social Architecture:** Monitoring the influence of KOLs (Key Opinion Leaders) and how their backing can manipulate or sustain momentum.
 * **Technical Analysis (TA):** I developed the ability to recognize on-chain patterns, providing a systematic edge for entering and exiting plays with precision.
 
-**Technical Post-Mortem:** During this period, I followed insights from respected market analysts like **Jack** (as seen in the documentation), whose perspective on the "ever-changing puzzle" of on-chain liquidity helped refine my strategy. However, reaching the $100k milestone created a false sense of security.
+**Technical Post-Mortem:** During this period, I followed insights from respected market analysts like **Jack** (as seen in the documentation), whose perspective helped refine my strategy. However, reaching the $100k milestone created a false sense of security.
 
 **The Lesson:** Despite the massive growth, the portfolio eventually suffered due to **poor risk management**. I realized that while my "entry" logic was sound, my "systemic guardrails" were non-existent. Managing a six-figure, high-concurrency portfolio manually in a 24/7 market is a recipe for failure without a strict exit framework. I have since corrected these operational flaws, treating risk management as a technical requirement rather than an afterthought.
 
 <p align="center">
-  <img src="assets/peak_portfolio.jpeg" width="450" hspace="10">
-  <img src="assets/trader_article.png" width="450" hspace="10">
+  <img src="assets/peak_portfolio.png" width="48%">
+  <img src="assets/trader_article.png" width="48%">
 </p>
 
 ***
@@ -79,8 +79,8 @@ I have been closely tracking the recent updates regarding the automated research
 **The Vision:** This isn't just about a tomato; it’s about a self-healing, autonomous agricultural ecosystem. Watching Claude manage every drop of nutrient and every hardware reset (like the Day 34 recursion error) proves that AI can bridge the gap between digital logic and physical survival.
 
 <p align="center">
-  <img src="assets/sol_the_trophy_tomato.png" width="450" hspace="10">
-  <img src="assets/sol_the_trophy_tomato2.png" width="450" hspace="10">
+  <img src="assets/sol_the_trophy_tomato.png" width="48%">
+  <img src="assets/sol_the_trophy_tomato2.png" width="48%">
 </p>
 
 ***
