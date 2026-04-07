@@ -95,4 +95,8 @@ Through self-directed research into DeFAI frameworks like **Listen-rs** and auto
 
 I am moving forward with a renewed focus on **Automated Infrastructure**. I believe the skills I've gained—identifying technological staying power, analyzing open-source repositories, and monitoring agentic systems—will be vital as I continue to build resilient, self-healing systems in the evolving world of IT and AI.
 
-IT Infrastructure & DeFAI Research
+***
+<p align="center">
+  <b>Yesuf Hassen</b><br>
+  <i>IT Infrastructure & DeFAI Research</i>
+</p>
