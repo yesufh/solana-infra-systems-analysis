@@ -1,33 +1,59 @@
 # Solana Ecosystem: A Technical Infrastructure Case Study
 ***
 
-**The Verification Paradox ($TRUMP Launch)**
-In January 2025, a presidential account tweeted a ticker and a link for an official token. The lack of an immediate Contract Address (CA) created a massive "Verification Paradox" where the market split 50/50. 
+**1. The Verification Paradox & Social Oracle Failure ($TRUMP)**
+**The Event:** In January 2025, a high-profile ticker launch created a "Verification Paradox." Without an immediate Contract Address (CA), the market was forced to rely on social media as a primary data source.
 
-**Technical Analysis:** Top-tier traders suspected a hack and called for an exit due to the unusual launch style, while others recognized the authenticity and captured the expansion. This taught me that **Social Sentiment is a noisy Oracle.** In this instance, I saw how FUD can be used as a "shakeout" to test a coin's holder base. If a single tweet can make a holder sell without an objective reason, that asset's "social uptime" is low. Filtering this noise is a core technical skill I now prioritize.
+**Systems Analysis:** I analyzed the split between "Social Sentiment" and "Network Reality." While prominent traders like **Taco** signaled a "Liquidity Drain" (FUD), the underlying volume metrics ($500M+) suggested a massive expansion. 
+* **The Takeaway:** I identified a "conviction threshold"—if a single tweet can make a holder sell without an objective reason, the system's "social uptime" is low. Filtering this noise is a core technical skill I now prioritize.
 
-<img src="assets/trump_tweets_coin.png" width="300"> <img src="assets/trump_coin_fud.png" width="300"> <img src="assets/trump_coin_sentiment.png" width="300">
-
-***
-
-**The Infrastructure Pivot (Piotrostr, Listen & ARC)**
-Moving away from manual sentiment-trading, I began researching the technical "plumbing" of the network. I focused on **Piotrostr (Piotrek)**, a lead engineer in the DeFAI (Decentralized AI Finance) space whose work is industry-leading. I aligned my portfolio with the infrastructure-side by holding **$LISTEN** and **$ARC** (AI Rig Complex). Studying Piotrek's GitHub—specifically the `listen-rs` framework—showed me how Rust-based agents manage on-chain liquidity. This moved my focus from "trading tickers" to "analyzing systems."
-
-<img src="assets/listen_and_arc_holdings.png" width="450">
+<p align="center">
+  <img src="trump_tweets_coin.png" width="300" hspace="5">
+  <img src="trump_coin_fud.png" width="300" hspace="5">
+  <img src="trump_coin_sentiment.png" width="300" hspace="5">
+</p>
 
 ***
 
-**Capital Scaling & Systemic Failure ($100k Peak)**
-Applying this infrastructure-first research allowed me to scale a seed capital of **$2,200 to a peak of over $100,000** across three active Phantom wallets. This was a significant "Proof of Concept" for data-driven allocation, but the subsequent drawdown back to $10k revealed a massive **Infrastructure Gap**. Managing six figures manually in a 24/7 market is unsustainable; without automated risk-management and real-time monitoring (SRE), a human-led system is prone to failure.
+**2. Algorithmic Infrastructure: Piotrostr (Listen-rs & ARC)**
+**The Research:** To solve the latency issues of manual trading, I pivoted to **Infrastructure Analysis**, focusing on the work of **Piotrostr (Piotrek)**. 
 
-<img src="assets/peak_portfolio_100k.png" width="450">
+**Systems Analysis:** I performed a deep-dive into the **Listen-rs** framework and the **AI Rig Complex (ARC)**. 
+* **Technical Stack:** Analyzing Piotrek's GitHub—specifically his implementation of high-performance Rust cores and Jito MEV bundles—demonstrated how AI agents (DeFAI) achieve real-time **Observability**. 
+* **Implementation:** I aligned my portfolio with the $LISTEN and $ARC partnership, treating these not as "coins," but as "infrastructure bets."
+
+<p align="center">
+  <img src="piotrek-listen-github.png" width="450" hspace="10">
+  <img src="listen_and_arc_holdings.png" width="450" hspace="10">
+</p>
 
 ***
 
-**Current Research: Agentic SRE (Trophy Tomato Phase 2)**
-I am currently tracking Martin DeVido’s **$SOL (Trophy Tomato)** as it enters Phase 2. This is the most impressive "Agentic" experiment I've witnessed—a biological parallel to Site Reliability Engineering. I observe how the AI agent (Claude) monitors sensors (CO2, moisture, light) and performs **autonomous hardware resets** when the system crashes, such as the Day 34 recursion error. This represents the future: self-healing infrastructure where AI manages the physical world.
+**3. Scaling & Post-Mortem on Manual Systems ($100k Peak)**
+**The Event:** By June 2025, my infrastructure-first research yielded a **4,400% return**, scaling **$2,200 to over $100,000** across three active Phantom wallets.
 
-<img src="assets/sol_the_trophy_tomato.png" width="450">
+**Technical Post-Mortem:** This peak was achieved by applying strategies learned from top-tier traders. Specifically, I documented a case study on a trader whose methodology focused on identifying "Alpha" in infrastructure-heavy projects, which provided the blueprint for my portfolio's growth.
+* **The Gap:** However, the subsequent drawdown back to $10k was a classic **Systems Failure**. I was managing a six-figure, high-concurrency system manually in a 24/7 market. 
+* **The Lesson:** In the absence of automated risk-management and real-time monitoring (SRE), a human-led system is prone to catastrophic failure. 
+
+<p align="center">
+  <img src="peak_portfolio_100k.png" width="450" hspace="10">
+  <img src="trader-article.png" width="450" hspace="10">
+</p>
+
+***
+
+**4. Future Research: Agentic SRE (Trophy Tomato Phase 2)**
+**Current Focus:** I am currently documenting Martin DeVido’s **$SOL (Trophy Tomato)** project as it transitions into Phase 2 after its initial 100-day cycle.
+
+**Systems Analysis:** This is the ultimate biological parallel to **Site Reliability Engineering (SRE)**. 
+* **Observability:** An AI agent (Claude) monitors physical sensors (CO2, moisture, temperature).
+* **Remediation:** I am tracking the agent's ability to perform **autonomous hardware resets** (e.g., the Day 34 recursion error). This represents the frontier: self-healing infrastructure where AI agents bridge the gap between digital logic and physical system health.
+
+<p align="center">
+  <img src="sol_the_trophy_tomato.png" width="450" hspace="10">
+  <img src="sol_the_trophy2_tomato.png" width="450" hspace="10">
+</p>
 
 ***
 **© 2026 Yesuf Hassen | IT Student @ NOVA | Presidential Scholar**
