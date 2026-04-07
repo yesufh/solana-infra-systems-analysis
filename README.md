@@ -96,4 +96,13 @@ Through self-directed research into DeFAI frameworks like **Listen-rs** and auto
 I am moving forward with a renewed focus on **Automated Infrastructure**. I believe the skills I've gained—identifying technological staying power, analyzing open-source repositories, and monitoring agentic systems—will be vital as I continue to build resilient, self-healing systems in the evolving world of IT and AI.
 
 ***
-**© 2026 Yesuf Hassen | IT Student @ NOVA | Presidential Scholar**
+***
+<p align="center">
+  <b>Yesuf Hassen</b><br>
+  <i>IT Infrastructure & DeFAI Research</i><br>
+  <b>Presidential Scholar • Northern Virginia Community College</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Solana-Ecosystem_Case_Study-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Case Study">
+</p>
