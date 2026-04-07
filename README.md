@@ -56,7 +56,7 @@ Rather than discouraging me, this anomaly sparked a deep fascination with how th
 **The Lesson:** Despite the massive growth, the portfolio eventually suffered due to **poor risk management**. I realized that while my "entry" logic was sound, my "systemic guardrails" were non-existent. Managing a six-figure, high-concurrency portfolio manually in a 24/7 market is a recipe for failure without a strict exit framework. I have since corrected these operational flaws, treating risk management as a technical requirement rather than an afterthought.
 
 <p align="center">
-  <img src="assets/peak_portfolio.png" width="450" hspace="10">
+  <img src="assets/peak_portfolio.jpeg" width="450" hspace="10">
   <img src="assets/trader_article.png" width="450" hspace="10">
 </p>
 
