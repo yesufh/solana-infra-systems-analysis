@@ -11,14 +11,14 @@ In January 2025, a presidential account tweeted a ticker and a link for an offic
 ***
 
 **The Infrastructure Pivot (Piotrostr, Listen & ARC)**
-Moving away from manual sentiment-trading, I began researching the "plumbing" of the network. I focused on **Piotrostr (Piotrek)**, a lead engineer in the DeFAI (Decentralized AI Finance) space whose work is industry-leading. I aligned my portfolio with the infrastructure-side by holding **$LISTEN** and **$ARC** (AI Rig Complex). Studying Piotrek's GitHub—specifically the `listen-rs` framework—showed me how Rust-based agents manage on-chain liquidity. This moved my focus from "trading tickers" to "analyzing systems."
+Moving away from manual sentiment-trading, I began researching the technical "plumbing" of the network. I focused on **Piotrostr (Piotrek)**, a lead engineer in the DeFAI (Decentralized AI Finance) space whose work is industry-leading. I aligned my portfolio with the infrastructure-side by holding **$LISTEN** and **$ARC** (AI Rig Complex). Studying Piotrek's GitHub—specifically the `listen-rs` framework—showed me how Rust-based agents manage on-chain liquidity. This moved my focus from "trading tickers" to "analyzing systems."
 
 <img src="assets/listen_and_arc_holdings.png" width="450">
 
 ***
 
 **Capital Scaling & Systemic Failure ($100k Peak)**
-Applying this infrastructure-first research allowed me to scale a seed capital of **$2,200 to a peak of over $100,000** across three active Phantom wallets by June 2025. This was my "Proof of Concept," but the subsequent drawdown back to $10k revealed a massive **Production Engineering** gap. Managing six figures manually in a 24/7 market is unsustainable; without automated risk-management and real-time monitoring (SRE), a human-led system is prone to failure. This is why I am pursuing the **MLH Fellowship**—to build the automated "guardrails" I lacked during this phase.
+Applying this infrastructure-first research allowed me to scale a seed capital of **$2,200 to a peak of over $100,000** across three active Phantom wallets. This was a significant "Proof of Concept" for data-driven allocation, but the subsequent drawdown back to $10k revealed a massive **Infrastructure Gap**. Managing six figures manually in a 24/7 market is unsustainable; without automated risk-management and real-time monitoring (SRE), a human-led system is prone to failure.
 
 <img src="assets/peak_portfolio_100k.png" width="450">
 
