@@ -15,7 +15,7 @@
 Rather than discouraging me, this anomaly sparked a deep fascination with how these decentralized systems actually function. I realized that to find sustainable Alpha, I needed to look past the surface-level hype and understand the underlying mechanics of the network. This shift in perspective drove me to dive deeper into the space, eventually leading me away from the "noise" and toward the technical infrastructure that powers it all.
 
 <p align="center">
-  <img src="assets/trump_tweets_coin.png" width="300" hspace="4">
+  <img src="assets/trump_tweets_coin.png" width="300" hspace="2">
   <img src="assets/trump_coin_fud.png" width="300" hspace="5">
   <img src="assets/trump_coin_sentiment.png" width="300" hspace="5">
 </p>
